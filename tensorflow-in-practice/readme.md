@@ -1,2 +1,2 @@
-#### Coursera specialization
-## Tensorflow in Practice 
+## TensorFlow in Practice Specialization
+
